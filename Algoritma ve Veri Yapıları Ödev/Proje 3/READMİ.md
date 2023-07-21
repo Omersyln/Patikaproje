@@ -4,7 +4,7 @@
 
 ## Cevap:
 
-- Root x= 6
+- Root x= 7
 
 
 
